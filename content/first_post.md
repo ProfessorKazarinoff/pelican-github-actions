@@ -7,4 +7,4 @@ Slug: first-post
 Authors: Peter D. Kazarinoff
 Summary: Summary of my first post
 
-This is the content of my first blog post
+With Pull of theme. This is the content of my first blog post
