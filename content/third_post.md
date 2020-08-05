@@ -3,7 +3,7 @@ Date: 2020-08-04 11:33
 Modified: 2020-08-04 11:33
 Category: Python
 Tags: pelican, publishing
-Slug: pelican-github-actions/third-post
+Slug: third-post
 Authors: Peter D. Kazarinoff
 Summary: Summary of my third post
 
