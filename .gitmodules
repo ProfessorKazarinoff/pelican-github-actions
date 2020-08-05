@@ -1,0 +1,6 @@
+[submodule "themes/buruma"]
+	path = themes/buruma
+	url = https://github.com/ivanhercaz/buruma.git
+[submodule "themes/pelican-blue"]
+	path = themes/pelican-blue
+	url = https://github.com/Parbhat/pelican-blue.git
